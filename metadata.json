@@ -1,0 +1,8 @@
+{
+  "name": "Remix Trợ Lý Quản Trị Học Tập – Thầy NGUYỄN THANH TÙNG",
+  "description": "Hệ thống quản trị học tập môn Tin học THCS dành cho Thầy NGUYỄN THANH TÙNG - THCS LOL37 Nghệ An",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
